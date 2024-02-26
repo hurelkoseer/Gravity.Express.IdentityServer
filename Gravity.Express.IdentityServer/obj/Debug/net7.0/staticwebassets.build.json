@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K78WskgEve+T2R1nAco25VTxbZvQbyAQDJPV3HaYJ10=",
+  "Source": "Gravity.Express.IdentityServer",
+  "BasePath": "_content/Gravity.Express.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
