@@ -16,11 +16,16 @@ public static class Config
         new ApiScope("Gravity.Express.API", "Gravity Express API")
     };
 
-    public static IEnumerable<ApiResource> ApiResources =>
-        new List<ApiResource>
+    public static IEnumerable<ApiResource> ApiResources()
+    {
+        var api = new ApiResource("Gravity.Express.API", "Gravity Express API");
+        api.Scopes = ApiScopes.Select(x => x.Name).ToList();
+
+        return new List<ApiResource>
         {
-            new ApiResource("Gravity.Express.API", "Gravity Express API")
+            api
         };
+    }
 
 
     public static IEnumerable<Client> Clients => new List<Client>
@@ -28,7 +33,7 @@ public static class Config
         new Client
         {
             ClientId = "Gravity_Express",
-            AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
+            AllowedGrantTypes = GrantTypes.ClientCredentials,
             ClientSecrets = { new Secret("secret".Sha256()) },
             AllowedScopes = { "Gravity.Express.API" }
         }

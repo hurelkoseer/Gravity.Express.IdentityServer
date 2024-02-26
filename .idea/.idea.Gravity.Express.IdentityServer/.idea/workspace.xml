@@ -8,115 +8,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ef0736-89b1-4d51-b4a6-fd73bae2c898" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Config.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Context/ApplicationDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Controllers/AccountController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20240225221408_InitialIdentityServerConfigurationDbMigration.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20240225221408_InitialIdentityServerConfigurationDbMigration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20240225221349_InitialIdentityServerPersistedGrantDbMigration.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20240225221349_InitialIdentityServerPersistedGrantDbMigration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Log/RequestResponseLoggingMiddleware.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Logs/log-20240226.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Model/RegisterModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Validator/ResourceOwnerPasswordValidator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Humanizer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/IdentityModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/IdentityServer4.AspNetIdentity.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/IdentityServer4.Storage.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/IdentityServer4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Mono.TextTemplating.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Npgsql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.AspNetCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Formatting.Compact.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Settings.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Sinks.Console.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Sinks.Debug.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.Sinks.File.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Serilog.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/System.CodeDom.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/System.Text.Encodings.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/System.Text.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/ref/Gravity.Express.IdentityServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/refint/Gravity.Express.IdentityServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/staticwebassets/msbuild.build.Gravity.Express.IdentityServer.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Gravity.Express.IdentityServer.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Gravity.Express.IdentityServer.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/tempkey.jwk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Gravity.Express.IdentityServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Gravity.Express.IdentityServer.csproj" afterDir="false" />
+    <list default="true" id="80ef0736-89b1-4d51-b4a6-fd73bae2c898" name="Changes" comment="token">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Config.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Config.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Logs/log-20240226.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Logs/log-20240226.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Gravity.Express.IdentityServer.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/bin/Debug/net7.0/Gravity.Express.IdentityServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/Gravity.Express.IdentityServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/ref/Gravity.Express.IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/ref/Gravity.Express.IdentityServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/refint/Gravity.Express.IdentityServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/obj/Debug/net7.0/refint/Gravity.Express.IdentityServer.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +36,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/15fd60953ac0c14a98fd703d686a8bad76c48f2b669ebe3c1883d723de8946a/GrantTypes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/484917e236e092d5ce76c5f373993d21fb07a86c2912aaaec5db139b77ac48/SwaggerGenServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6c8c82c6452bd61ca4f7c983aa6b53e2aae2aabb978772c534293535aa28a/ApiScope.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6de71183c5935f887f03077a1bbde6c4ac14094df5326c91f5da73b99dbe4/ApiResource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/720dd6e9cf95b91c9ed11cdae89598df6ee1dfd71c99632bf3cf3befadfa/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bf4428cd607e79de2d6c3c2d72d8aff1bb584b970eadd61641ffa6ac9ef5b22/CallSiteChain.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e52a70dae11948fa5bfb33d03fd2e7d9b6ece182647aa4d9b1221413ac57dc7/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
@@ -222,8 +126,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708889331916</updated>
-      <workItem from="1708889333291" duration="18534000" />
+      <workItem from="1708889333291" duration="22201000" />
     </task>
+    <task id="LOCAL-00001" summary="token">
+      <option name="closed" value="true" />
+      <created>1708909465069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708909465069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +157,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="token" />
+    <option name="LAST_COMMIT_MESSAGE" value="token" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
