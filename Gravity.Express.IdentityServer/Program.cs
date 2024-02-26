@@ -31,10 +31,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => options.Sign
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
 
-builder.Services.AddIdentityServer(options =>
-    {
-        options.EmitStaticAudienceClaim = true;
-    })
+builder.Services.AddIdentityServer()
     .AddDeveloperSigningCredential()
     .AddInMemoryIdentityResources(Config.IdentityResources)
     .AddInMemoryApiScopes(Config.ApiScopes)

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JlqxOg9Zv/W0M6Zfz3CYWfr7z3kW2Svqs/ExCdrG3C+PjaXWsKDPXFBQSEtkd6Hgf4sU0oRm1jeh2Cb67TW6Zg==",
+  "dgSpecHash": "4x1ApulP/QVLH+C85B0o1Pm1Gp8j0cHF1G1If7iGizblJmUMDlQ6FTyyXGvOhEL1cQNauHXgpkEn3KLjmkNUYQ==",
   "success": true,
   "projectFilePath": "/Users/hurel.koseer/RiderProjects/Gravity.Express.IdentityServer/Gravity.Express.IdentityServer/Gravity.Express.IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "/Users/hurel.koseer/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.16/microsoft.entityframeworkcore.analyzers.7.0.16.nupkg.sha512",
     "/Users/hurel.koseer/.nuget/packages/microsoft.entityframeworkcore.design/7.0.16/microsoft.entityframeworkcore.design.7.0.16.nupkg.sha512",
     "/Users/hurel.koseer/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.16/microsoft.entityframeworkcore.relational.7.0.16.nupkg.sha512",
+    "/Users/hurel.koseer/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.16/microsoft.entityframeworkcore.tools.7.0.16.nupkg.sha512",
     "/Users/hurel.koseer/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/hurel.koseer/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/hurel.koseer/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

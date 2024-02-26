@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ef0736-89b1-4d51-b4a6-fd73bae2c898" name="Changes" comment="token">
+    <list default="true" id="80ef0736-89b1-4d51-b4a6-fd73bae2c898" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gravity.Express.IdentityServer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Config.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Config.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Logs/log-20240226.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gravity.Express.IdentityServer/Logs/log-20240226.txt" afterDir="false" />
@@ -33,6 +33,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hurelkoseer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="152b44a7-4a9f-4b4d-9312-7fca0f0f3dc0" />
+        <option name="url" value="https://github.com/hurelkoseer/Gravity.Express.IdentityServer.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/15fd60953ac0c14a98fd703d686a8bad76c48f2b669ebe3c1883d723de8946a/GrantTypes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/484917e236e092d5ce76c5f373993d21fb07a86c2912aaaec5db139b77ac48/SwaggerGenServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -42,6 +56,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bf4428cd607e79de2d6c3c2d72d8aff1bb584b970eadd61641ffa6ac9ef5b22/CallSiteChain.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e52a70dae11948fa5bfb33d03fd2e7d9b6ece182647aa4d9b1221413ac57dc7/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f91195dc1f983d6ec69125bd192fea551738920a3ae32077f21c5af5b9/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/hurel.koseer/RiderProjects/Gravity.Express.IdentityServer/Gravity.Express.IdentityServer/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -126,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708889331916</updated>
-      <workItem from="1708889333291" duration="22201000" />
+      <workItem from="1708889333291" duration="25196000" />
     </task>
     <task id="LOCAL-00001" summary="token">
       <option name="closed" value="true" />
@@ -136,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708909465069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1708948409052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708948409052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +171,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="branch/configureIdentity" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -158,7 +193,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="token" />
-    <option name="LAST_COMMIT_MESSAGE" value="token" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
